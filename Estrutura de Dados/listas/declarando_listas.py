@@ -12,7 +12,12 @@ letras = list("python")
 print(letras)
 
 # o list não irá armazenar a palavra "python" como um "item", mas sim seus carcateres separadamente em sequência (essa será a lista)
-# só suporta uma palavra/argumento, então não tem como adicionar "mais itens" como na declaração de chaves
+# só suporta uma palavra/argumento, a menos que adicione entre parenteses & chaves:
+
+letras = list(["python", "declaração"])
+print(letras)
+
+#
 
 numeros = list(range(10))
 print(numeros)
