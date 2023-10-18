@@ -1,4 +1,5 @@
 # vai ordenar a lista
+    # e trabalha somente com listas
 
 linguagens = ["python", "js", "c", "java", "csharp"] # ordem por entrada
 numeros = [5, 3, 2, 6, 1] # ordem por entrada
